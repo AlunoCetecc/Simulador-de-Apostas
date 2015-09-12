@@ -1,0 +1,9 @@
+c:\users\dsistemas\documents\visual studio 2013\Projects\simulador de apostas\simulador de apostas\bin\Debug\simulador de apostas.exe.config
+c:\users\dsistemas\documents\visual studio 2013\Projects\simulador de apostas\simulador de apostas\obj\Debug\simulador de apostas.csprojResolveAssemblyReference.cache
+c:\users\dsistemas\documents\visual studio 2013\Projects\simulador de apostas\simulador de apostas\obj\Debug\simulador_de_apostas.Properties.Resources.resources
+c:\users\dsistemas\documents\visual studio 2013\Projects\simulador de apostas\simulador de apostas\obj\Debug\simulador de apostas.csproj.GenerateResource.Cache
+C:\Users\dsistemas\Documents\Visual Studio 2013\Projects\simulador de apostas\simulador de apostas\obj\Debug\simulador_de_apostas.Form1.resources
+C:\Users\dsistemas\Documents\Visual Studio 2013\Projects\simulador de apostas\simulador de apostas\bin\Debug\simulador de apostas.exe
+C:\Users\dsistemas\Documents\Visual Studio 2013\Projects\simulador de apostas\simulador de apostas\bin\Debug\simulador de apostas.pdb
+C:\Users\dsistemas\Documents\Visual Studio 2013\Projects\simulador de apostas\simulador de apostas\obj\Debug\simulador de apostas.exe
+C:\Users\dsistemas\Documents\Visual Studio 2013\Projects\simulador de apostas\simulador de apostas\obj\Debug\simulador de apostas.pdb
